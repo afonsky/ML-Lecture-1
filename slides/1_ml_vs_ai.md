@@ -464,7 +464,7 @@ $\mathbb{E}\big[Y - \hat{Y}\big]^2 = \mathbb{E}\big[f(X) + \varepsilon - \hat{f}
 ---
 
 # Example of a Machine Learning Task
-### **Цель**: find the relationship between income and length of education and seniority
+### **Goal**: find the relationship between income and length of education and seniority
 <br>
 <div class="grid grid-cols-[5fr_5fr] gap-5]">
 <div v-click>
