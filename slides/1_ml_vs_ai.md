@@ -133,7 +133,7 @@ layout: quote
 Where:
 * Experience <span style="color: green">**E**</span>: [MNIST](https://en.wikipedia.org/wiki/MNIST_database) dataset
 * Task <span style="color: blue">**T**</span>: digit classification in images
-* Мера качества <span style="color: red">**P**</span>: fraction of correctly classified images
+* Performance measure <span style="color: red">**P**</span>: fraction of correctly classified images
 
 ---
 zoom: 1.05
