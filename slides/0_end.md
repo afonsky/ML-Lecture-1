@@ -1,12 +1,13 @@
 # First Home Assignment
 
 1. Read chapters 1 and 2 from [📖ISLP](https://www.statlearning.com/)
-2. For self-assessment, use the exercises on pages 63-67
-3. Perform the following exercise: [https://edu.hse.ru/mod/assign/view.php?id=1672354](https://edu.hse.ru/mod/assign/view.php?id=1672354)
+    * For self-assessment, use the exercises on pages 63-67
+2. Perform the following exercise: [https://edu.hse.ru/mod/assign/view.php?id=1672354](https://edu.hse.ru/mod/assign/view.php?id=1672354)
     * The soft deadline is September 10 (Wednesday), 23:59 MSK
     * The **hard deadline** is September 11 (Thursday), 18:00 MSK
-4. If you do not have an account on [kaggle.com](https://kaggle.com), please register there
-    * Please note that Kaggle.com rules prohibit the use of multiple accounts.
+3. If you do not have an account on [kaggle.com](https://kaggle.com), please register there
+    * Please note that Kaggle rules prohibit the use of multiple accounts
+    * You will need to use Kaggle next week 
 
 <br>
 
