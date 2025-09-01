@@ -15,7 +15,7 @@ layout: statement
 <div v-click at="2">
 <figure>
   <img src="/mj_car.jpg" style="width: 350px">
-  <figcaption style="color:#b3b3b3ff; font-size: 11px; position: absolute;">Image source: Midjourney 6
+  <figcaption style="color:#b3b3b3ff; font-size: 11px; position: absolute;">Images source: Midjourney 6
     </figcaption>
 </figure>
 </div>

@@ -201,3 +201,23 @@ $$\log\bigg(\frac{p(X)}{1 - p(X)}\bigg) = \beta_0 + \beta_1 X$$
   <img src="/int_vs_flex.png" style="width: 430px !important">
 </figure>   
 </div>
+
+---
+
+# Takeaways
+
+* Statistical Learning (SL) is a broad framework for both prediction and inference problems, it contains a lot of different tasks
+
+
+* There is no free lunch in SL
+  * One can always show you data where your model is bad
+
+
+* Models can be parametric or non-parametric, but they always have some inductive bias about the problem
+
+
+* Smaller model $\neq$ worse performance, but it usually gives more bias
+
+
+* Don’t overfit your model!
+  * Always measure generalization carefully (at least with train-test split)
