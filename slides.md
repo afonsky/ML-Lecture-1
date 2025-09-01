@@ -68,11 +68,6 @@ Wallach Division Picture Collection<br> The New York Public Library.
   :deep(footer) { padding-bottom: 3em !important; }
 </style>
 
-<!--
-Здравствуйте, меня зовут Алексей Болдырев, я доцент департамента больших данных и информационного поиска факультета компьютерных наук Вышки в Москве.
-
-Я расскажу о том, как соревнования на курсе глубинного обучения развивают hard и soft skills.
--->
 
 ---
 src: ./slides/0_intro.md
@@ -86,3 +81,6 @@ src: ./slides/1_ml_vs_ai.md
 src: ./slides/2_ml_landscape.md
 ---
 
+---
+src: ./slides/0_end.md
+---
