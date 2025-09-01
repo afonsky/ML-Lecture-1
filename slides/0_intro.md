@@ -441,7 +441,7 @@ zoom: 0.9
 
 
 ---
-zoom: 0.9
+zoom: 0.87
 ---
 
 # Communication Guidelines

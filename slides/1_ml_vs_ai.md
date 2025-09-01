@@ -89,7 +89,7 @@ layout: quote
 ```mermaid {scale: 0.75}
 stateDiagram
     direction LR
-    Input#nbsp;data --> Coder
+    Input#nbsp;data --> Programmer
     Output#nbsp;data --> Code
     Programmer --> Code
     Code --> Computer
@@ -177,6 +177,8 @@ zoom: 1.05
 ### Machine learning and statistical theory provide answers to these questions
 </v-clicks>
 
+---
+zoom: 0.9
 ---
 
 # Why do we need Math in Machine Learning?
